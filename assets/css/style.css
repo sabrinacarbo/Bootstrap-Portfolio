@@ -18,7 +18,7 @@ body {
     font-size: 20px;
     background-color: #4aaaa5;
     position: relative;
-    left: 30px;
+    left: 160px;
 }
 
 .glyphicon {
@@ -57,6 +57,7 @@ body {
 .port-img {
     padding:20px;
     width: 250px;
+    opacity: 0.8;
 }
 
 .wrapper::after {
@@ -93,8 +94,17 @@ footer {
     z-index:1;
 }
 
-/* .clearfix::after {
-    content: "";
-    clear: both;
-    display: block;
-}  */
+/* h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 50%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  } */
+
